@@ -19,5 +19,6 @@ public class DataVerification {
             System.out.println("Данные введены верно");
         }
 
+
     }
 }

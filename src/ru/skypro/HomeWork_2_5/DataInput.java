@@ -18,6 +18,7 @@ public class DataInput {
 
     public String getPassword() {
         return password;
+
     }
 
 
